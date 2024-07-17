@@ -19,3 +19,8 @@ I'm passionate about all things data – from analytics and science to engineeri
 - 📈 **Tableau Public Profile**: [public.tableau.com/app/profile/joseph.murage/vizzes](https://public.tableau.com/app/profile/joseph.murage/vizzes)
 
 Feel free to reach out if you want to collaborate on exciting data projects or just to chat about the latest in data science, engineering, economics, and software development!
+
+<!---
+JosephMurage/JosephMurage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
