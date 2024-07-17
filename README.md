@@ -5,13 +5,13 @@ I'm passionate about all things data – from analytics and science to engineeri
 
 ## Interests
 - 🌟 **Data Enthusiast**: I thrive on turning raw data into actionable insights.
-- 📊 **Economics & Finance**: Leveraging data to unravel the complexities of economic trends and financial markets, especially on issues surrounding financial inclusivity in Africa.
+- 📊 **Economics & Finance**: Leveraging data to unravel the complexities of economic trends and financial markets, especially on issues surrounding **financial inclusivity*** in Africa.
 - 💻 **Software Development**: Currently working on a [Loan Calculator App](https://github.com/JosephMurage/loan-calculator) to help users evaluate their loans effectively.
 - 🚀 **Continuous Learning**: Always exploring new technologies and methodologies to enhance my skill set.
 
 ## Projects and Collaborations
 - 🌱 **Learning and Growing**: Continuously expanding my knowledge in data science and software development.
-- 🤝 **Collaboration**: Open to collaborating on projects that intersect data, economics, and software development.
+- 🤝 **Collaboration**: Open to collaborating on projects that intersect data, economics & finance.
 
 ## Connect with Me
 - 📧 Email: [josephmurimimurage@gmail.com](mailto:josephmurimimurage@gmail.com)
