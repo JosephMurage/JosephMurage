@@ -14,7 +14,7 @@ I'm passionate about all things data – from analytics and science to engineeri
 - 🤝 **Collaboration**: Open to collaborating on projects that intersect data, economics & finance.
 
 ## Connect with Me
-- 📧 Email: [josephmurimimurage@gmail.com](mailto:josephmurimimurage@gmail.com)
+- 📧 Email: [data.murage@gmail.com](mailto:data.murage@gmail.com)
 - 🌐 **Data Science Portfolio**: [datascienceportfol.io/josephmurage](https://www.datascienceportfol.io/josephmurage)
 - 📈 **Tableau Public Profile**: [public.tableau.com/app/profile/joseph.murage/vizzes](https://public.tableau.com/app/profile/joseph.murage/vizzes)
 
